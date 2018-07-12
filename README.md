@@ -1,8 +1,8 @@
 # 物联网点餐管理系统
 
-**技术栈：**SSH、MySQL
+**技术栈：** SSH、MySQL
 
-**负责：**带新人实践，设计数据库和搭建基本框架，分配工作，项目测试。
+**负责：** 带新人实践，设计数据库和搭建基本框架，分配工作，项目测试。
 学习了整个项目的设计和工作分配；测试时发现好多想不到的bug，让我思考问题注意细节和考虑多方面问题。
 
 **主要功能介绍：**
@@ -26,10 +26,8 @@
 ![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/order/cashier.png)
 5、打印订单效果图
 ![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/order/printing.png)
-6、手机端点餐首页效果图
+6、手机端点餐首页效果图、手机端菜品介绍效果图、手机端订单效果图
 ![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/order/phoneIndex.jpg)
-7、手机端菜品介绍效果图
 ![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/order/introduce.jpg)
-8、手机端订单效果图
 ![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/order/order.png)
 
